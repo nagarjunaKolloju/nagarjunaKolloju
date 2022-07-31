@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any fascinating projects**
 
-- 👨‍💻 All  my info is available at [nK.io](https://silver-custard-88a152.netlify.app/)
+- 👨‍💻 All  my info is available at [nK.io](https://nkweb.netlify.app/)
 
 - 💬 Ask me about **Algorithms**
 
