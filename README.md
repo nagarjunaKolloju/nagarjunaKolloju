@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **Start up**
+- 🔭 I’m currently working on a **Start up**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **any fascinating projects**
 
-- 👨‍💻 All of my projects are available at [nK.com](https://github.com/nagarjunaKolloju?tab=repositories)
+- 👨‍💻 All of my projects are available at [nK.io](https://github.com/nagarjunaKolloju?tab=repositories)
 
 - 💬 Ask me about **Algorithms**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [CV](https://pdfhost.io/v/wV9dHjOJ1_NAGARJUNA_KOLLOJU_)
 
-- ⚡ Fun fact **We are under simulation**
+- ⚡ Fun fact **We are living under simulation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
