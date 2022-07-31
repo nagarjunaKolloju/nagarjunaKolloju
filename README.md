@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any fascinating projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nagarjunaKolloju?tab=repositories](https://github.com/nagarjunaKolloju?tab=repositories)
+- 👨‍💻 All of my projects are available at [nK.com](https://github.com/nagarjunaKolloju?tab=repositories)
 
 - 💬 Ask me about **Algorithms**
 
