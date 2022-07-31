@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ninjaforyou69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10VADr2F8dOPjNpBoyHZ6i5m0-GEpo2MY/view?usp=sharing](https://drive.google.com/file/d/10VADr2F8dOPjNpBoyHZ6i5m0-GEpo2MY/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://pdfhost.io/v/wV9dHjOJ1_NAGARJUNA_KOLLOJU_)
 
 - ⚡ Fun fact **We are under simulation**
 
