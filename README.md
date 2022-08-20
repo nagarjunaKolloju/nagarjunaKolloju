@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **any fascinating projects**
 
-- 👨‍💻 All  my info is available at [nK.io](https://nkweb.netlify.app/)
+- 👨‍💻 All  my info is available at [nagarjuna.io](https://nkweb.netlify.app/)
 
 - 💬 Ask me about **Algorithms**
 
-- 📫 How to reach me **ninjaforyou69@gmail.com**
+- 📫 How to reach me **nkolloju3.14@gmail.com**
 
 - 📄 Know about my experiences [CV](https://pdfhost.io/v/Aw5RHcHLh_NAGARJUNA_KOLLOJU_)
 
