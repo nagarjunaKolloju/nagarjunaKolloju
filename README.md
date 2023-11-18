@@ -15,7 +15,7 @@
 
 - 👨‍💻 All  my info is available at [nagarjuna.io](https://nkweb.netlify.app/)
 
-- 💬 Ask me about **Algorithms**
+- 💬 Ask me about **Machine Intelligence**
 
 - 📫 How to reach me **nkolloju@tamu.edu**
 
