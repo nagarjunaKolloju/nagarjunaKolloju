@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on a **Start up**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Cryptography**
 
-- 👯 I’m looking to collaborate on **any fascinating projects**
+- 👯 I’m looking to collaborate on **Any Revolutionary Ideas**
 
 - 👨‍💻 All  my info is available at [nagarjuna.io](https://nkweb.netlify.app/)
 
