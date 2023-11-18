@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Algorithms**
 
-- 📫 How to reach me **nkolloju3.14@gmail.com**
+- 📫 How to reach me **nkolloju@tamu.edu**
 
 - 📄 Know about my experiences [CV](https://pdfhost.io/v/Aw5RHcHLh_NAGARJUNA_KOLLOJU_)
 
