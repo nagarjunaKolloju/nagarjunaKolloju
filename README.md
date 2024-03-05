@@ -7,9 +7,6 @@
 
 
 
-- 🔭 I’m currently working on a **Start up**
-
-- 🌱 I’m currently learning **Cryptography**
 
 - 👯 I’m looking to collaborate on **Any Revolutionary Ideas**
 
