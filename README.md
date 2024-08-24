@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nagarjuna</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">A passionate engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjunakolloju&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjunakolloju" /> </p>
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **nkolloju@tamu.edu**
 
-- 📄 Know about my experiences [CV](https://pdfhost.io/v/Aw5RHcHLh_NAGARJUNA_KOLLOJU_)
 
 - ⚡ Fun fact **We are living under simulation**
 
